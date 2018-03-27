@@ -9,7 +9,7 @@
     "command": "gedit",
     "finish-args": [
         /* X11 + XShm access */
-        "--share=ipc", "--socket=x11",
+        "--share=ipc", "--socket=x11"
     ],
     "build-options" : {
         "cflags": "-O2 -g",
